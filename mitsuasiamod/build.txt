@@ -1,0 +1,7 @@
+author = mitsuthecreator
+version = 0.1
+displayName = mitsu's Asia Mod
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, .editorconfig, .gitignore, *.sln, Changelogs\*, *.md, secret\*
+homepage = 
+hideResources = false
+includeSource = true

@@ -1,0 +1,7 @@
+mitsu's Asia Mod is created to add asian items like food, weapons and armor.
+this mod is still developing.
+//v0.1
+added a Hook Sword
+added a Dynasty Bonsai
+//v0.2 
+coming soon
